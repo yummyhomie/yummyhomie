@@ -15,8 +15,6 @@
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/pizza.gif" alt="Welcome Gif" align="center">
 </div>
 
-<br><br>
-
 <div id="Bottom" align="center">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/blink182.gif" alt="Welcome Gif" align="center">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/computer.gif" alt="Welcome Gif" align="center">
