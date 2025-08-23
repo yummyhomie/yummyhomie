@@ -23,7 +23,7 @@
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/linux.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/mozilla.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/drpepper.gif">
-    <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/welcome.gif">
+    <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/welcome-small.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/cs.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/css.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/firefox.gif">
