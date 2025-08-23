@@ -17,9 +17,6 @@
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/computer.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/skate.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/xp.gif">
-</div>
-
-<div id="Bottom" align="center">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/geocities.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/hatemac.jpg">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/hatems.jpg">
@@ -31,9 +28,6 @@
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/css.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/firefox.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/half-life.gif">
-</div>
-
-<div id="Bottom" align="center">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/halloween.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/mspaint.gif">
     <img src="https://github.com/yummyhomie/yummyhomie/blob/main/files/linux3.gif">
